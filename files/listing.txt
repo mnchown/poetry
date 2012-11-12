@@ -14,11 +14,10 @@ drwxr-xr-x    9 tlberglund  staff   306 Oct 27 09:51 Tools
 drwxr-xr-x  114 tlberglund  staff  3876 Oct 30 09:59 code
 drwxr-xr-x    3 tlberglund  staff   102 Aug 10 11:36 eclipse-workspace
 drwxr-xr-x    4 tlberglund  staff   136 Jul 26 08:03 emacs-starter-kit.git
-drwxr-xr-x   24 tlberglund  staff   816 Oct 16 09:40 github
+drwxr-xr-x   24 tlberglund  staff   816 Oct 16 09:40 githoob
 drwxr-xr-x    3 tlberglund  staff   102 Nov  1 08:49 groovy-liquibase.git.svn
 -rw-r--r--    1 tlberglund  staff  1494 Oct 15 10:06 jax-git-workshop.md
 -rw-r--r--    1 tlberglund  staff  1224 Jul 30 04:34 old-zshrc
 -rw-r--r--    1 tlberglund  staff  5255 Sep 21 07:15 pbcopy
-drwxr-xr-x    6 tlberglund  staff   204 Jul 26 08:32 poems
 drwxr-xr-x   18 tlberglund  staff   612 Nov  5 17:59 scripts
 drwxr-xr-x   16 tlberglund  staff   544 Jul 26 11:46 workshops
